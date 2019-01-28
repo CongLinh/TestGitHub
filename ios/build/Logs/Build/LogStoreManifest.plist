@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>AE97E24C-1193-4606-92C2-67E05042F4F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AE97E24C-1193-4606-92C2-67E05042F4F4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>DemoRN project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DemoRN</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project DemoRN with scheme DemoRN and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>570213492.73752201</real>
+			<key>timeStoppedRecording</key>
+			<real>570213494.49061</real>
+			<key>title</key>
+			<string>Building project DemoRN with scheme DemoRN and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AE97E24C-1193-4606-92C2-67E05042F4F4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
